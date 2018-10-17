@@ -16,6 +16,7 @@ questions:
 * I want to create a modular CV that is both online and a pdf
 * I want to create a personal home page
 * I want to create a handsome conference or workshop website
+* I want to simplify the formats my data use
 * I want to manage my data in way that follows FAIR conventions
 * I want to edit and distribute an academic journal
 * I want to license my work so that it can be broadly used
